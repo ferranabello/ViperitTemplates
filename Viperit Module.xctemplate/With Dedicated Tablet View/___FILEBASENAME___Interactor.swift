@@ -9,7 +9,7 @@
 import Foundation
 import Viperit
 
-final class ___FILEBASENAMEASIDENTIFIER___Interactor: Interactor {
+class ___FILEBASENAMEASIDENTIFIER___Interactor: Interactor {
 }
 
 // MARK: - VIPER COMPONENTS API (Auto-generated code)

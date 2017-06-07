@@ -9,7 +9,7 @@
 import Foundation
 import Viperit
 
-final class ___FILEBASENAMEASIDENTIFIER___Presenter: Presenter {
+class ___FILEBASENAMEASIDENTIFIER___Presenter: Presenter {
 }
 
 
