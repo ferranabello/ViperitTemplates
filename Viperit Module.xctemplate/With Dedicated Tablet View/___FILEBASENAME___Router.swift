@@ -9,7 +9,7 @@
 import Foundation
 import Viperit
 
-final class ___FILEBASENAMEASIDENTIFIER___Router: Router {
+class ___FILEBASENAMEASIDENTIFIER___Router: Router {
 }
 
 // MARK: - VIPER COMPONENTS API (Auto-generated code)
