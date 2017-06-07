@@ -9,6 +9,6 @@
 import Foundation
 import Viperit
 
-final class ___FILEBASENAMEASIDENTIFIER___DisplayData: DisplayData {
+class ___FILEBASENAMEASIDENTIFIER___DisplayData: DisplayData {
 
 }
